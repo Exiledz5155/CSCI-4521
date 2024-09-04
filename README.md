@@ -7,7 +7,7 @@ This repository is a boilerplate/template for classwork in CSCI 4521.
 1. **Install Python 3.12 or newer**:
 
    - Download and install Python from the [official Python website](https://www.python.org/downloads/).
-   - Ensure to check the option to 'Add Python to PATH' during installation. (Don't mess this up, man!)
+   - Ensure to check the option to **'Add Python to PATH'** during installation. (Don't mess this up, man!)
 
 2. **Clone the Repository and Create a Virtual Environment**:
 
