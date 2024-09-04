@@ -12,11 +12,9 @@ This repo is made as a boilerplate/template for classwork in CSCI 4521.
 2. **Clone the repository and create virtual environment**:
    Skipping the cloning step here, yall got it.
 
-## Create the virtual environment
+   python -m venv venv
 
-python -m venv venv
-
-### Activate for Windows
+   ### Activate for Windows
 
 .\venv\Scripts\activate
 
@@ -26,9 +24,8 @@ source venv/bin/activate
 
 I believe you'll need to activate each time you reset the terminal instance.
 
-## Install dependencies
+3. **Install dependencies**:
 
-pip install --upgrade pip
 pip install -r requirements.txt
 
 ## Jupyter Notebook
@@ -37,7 +34,7 @@ This repo has 3 folders you may use as a template for the class.
 Exercises, homework and lectures. Homework just has a main.py since it assumes you won't be coding in a notebook environment for those assignments.
 Everything else will be in notebook. You can always move things around and just add an .ipynb file to any folder you create.
 
-## Running Jupyter Notebook
+### Running Jupyter Notebook:
 
 jupyter notebook
 
