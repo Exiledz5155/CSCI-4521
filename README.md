@@ -67,7 +67,6 @@ Then open the HTML file and right click -> Print -> Save as PDF
 
 ![image](https://github.com/user-attachments/assets/d722d11e-1bf5-4864-8981-59ba51ef7c90)
 
-
 ## Cloning vs. Forking
 
 If you plan to push your code to GitHub, I recommended you **fork** this repository and then make it private (for obvious reasons).
@@ -78,4 +77,6 @@ If you don't care to push anything and plan on saving things locally, **cloning*
 
 These are recommended for the course and included when installing the dependencies using the steps above.
 
-However, it may be better to also get the VSCode extensions for both (simply search the names).
+However, to if you're using VSCode it is beneficial to also get the VSCode extensions for both (simply search the names).
+
+Side note: I recommend using Prettier as the code formatter as well
