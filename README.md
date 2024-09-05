@@ -79,4 +79,4 @@ These are recommended for the course and included when installing the dependenci
 
 However, to if you're using VSCode it is beneficial to also get the VSCode extensions for both (simply search the names).
 
-Side note: I recommend using Prettier as the code formatter as well
+Side note: I also recommend using Prettier (Extension) as the code formatter
