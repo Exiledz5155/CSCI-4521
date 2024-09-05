@@ -57,6 +57,17 @@ To start Jupyter Notebook, run:
 jupyter notebook
 ```
 
+### Saving .ipynb as pdf
+
+File -> Save and Export Notebook as -> HTML
+
+![image](https://github.com/user-attachments/assets/20ddb9ca-750e-4e6c-90d4-e4ceea31903c)
+
+Then open the HTML file and right click -> Print -> Save as PDF
+
+![image](https://github.com/user-attachments/assets/d722d11e-1bf5-4864-8981-59ba51ef7c90)
+
+
 ## Cloning vs. Forking
 
 If you plan to push your code to GitHub, I recommended you **fork** this repository and then make it private (for obvious reasons).
